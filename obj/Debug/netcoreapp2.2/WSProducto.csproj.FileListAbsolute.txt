@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\WSProducto\WSProducto\bin\Debug\netcoreapp2.2\WSProducto.deps.json
+C:\Users\Ivan\source\repos\WSProducto\WSProducto\bin\Debug\netcoreapp2.2\WSProducto.runtimeconfig.json
+C:\Users\Ivan\source\repos\WSProducto\WSProducto\bin\Debug\netcoreapp2.2\WSProducto.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\WSProducto\WSProducto\bin\Debug\netcoreapp2.2\WSProducto.dll
+C:\Users\Ivan\source\repos\WSProducto\WSProducto\obj\Debug\netcoreapp2.2\WSProducto.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\WSProducto\WSProducto\obj\Debug\netcoreapp2.2\WSProducto.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\WSProducto\WSProducto\obj\Debug\netcoreapp2.2\WSProducto.RazorAssemblyInfo.cache
+C:\Users\Ivan\source\repos\WSProducto\WSProducto\obj\Debug\netcoreapp2.2\WSProducto.RazorAssemblyInfo.cs
+C:\Users\Ivan\source\repos\WSProducto\WSProducto\obj\Debug\netcoreapp2.2\WSProducto.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\WSProducto\WSProducto\obj\Debug\netcoreapp2.2\WSProducto.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\WSProducto\WSProducto\obj\Debug\netcoreapp2.2\WSProducto.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan\source\repos\WSProducto\WSProducto\bin\Debug\netcoreapp2.2\WSProducto.pdb
+C:\Users\Ivan\source\repos\WSProducto\WSProducto\obj\Debug\netcoreapp2.2\WSProducto.dll
+C:\Users\Ivan\source\repos\WSProducto\WSProducto\obj\Debug\netcoreapp2.2\WSProducto.pdb
